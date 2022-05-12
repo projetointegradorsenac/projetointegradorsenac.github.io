@@ -50,6 +50,10 @@ main#container {
 	margin: 10px;
 }
 
+a {
+ 	text-decoration: none;
+}
+
 .blocovela > div {
 	padding: 10px;
 }
