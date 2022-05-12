@@ -30,6 +30,7 @@ header#cabecalho {
 main#container {
 	min-width: 300px;
 	max-width: 1000px;
+	text-aling: center;
 	background-color: #bfb6d4;
 	padding: 20px;
 	margin: auto auto 30px;
